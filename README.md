@@ -1,5 +1,8 @@
 # Ecom - Django E-commerce Project
 
+![Alt text](Screenshots/Screenshot_01.png)
+![Alt text](Screenshots/Screenshot_04.png)
+
 This is a full-featured e-commerce website built using Django, designed for managing products, handling customer orders, and providing a user-friendly shopping experience.
 
 ## Features:
@@ -82,3 +85,10 @@ This is a full-featured e-commerce website built using Django, designed for mana
 ├── requirements.txt             # Project dependencies
 │
 └── README.md                    # Project documentation
+```
+
+## Other Screenshoots
+
+![Alt text](Screenshots/Screenshot_02.png)
+![Alt text](Screenshots/Screenshot_05.png)
+![Alt text](Screenshots/Screenshot_03.png)
