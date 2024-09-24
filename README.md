@@ -12,14 +12,14 @@ This is a full-featured e-commerce website built using Django, designed for mana
 - **User Authentication**: Register, login, and manage user accounts.
 - **Admin Interface**: Manage products, orders, and users through Django's built-in admin panel.
 
-## Requisitos
+## Requirements
 
 - Python 3.x
 - Django 5.1.1
 - SQLite (if you want to seen the data inside)
 - pip for installing dependencies
 
-## Instalação
+## Install
 
 1. Clone repo:
     ```bash
